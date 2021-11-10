@@ -1,3 +1,7 @@
+*NOTE: The Tensorflow serving team has implemented TFDF serving into the TFDF core. This solution works, but most likely the solution from the core team is probably the best solution.*
+*https://github.com/tensorflow/decision-forests/blob/main/documentation/tensorflow_serving.md*
+
+
 # TensorFlow Serving
 
 [![Ubuntu Build Status](https://storage.googleapis.com/tensorflow-serving-kokoro-build-badges-bucket/ubuntu.svg)](https://storage.googleapis.com/tensorflow-serving-kokoro-build-badges-bucket/ubuntu.html)
